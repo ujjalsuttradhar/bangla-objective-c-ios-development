@@ -9,7 +9,7 @@
   * [ক্লাস ও অবজেক্ট] (http://nuhil.net/2014/05/17/%E0%A7%AA%E0%A6%83-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B8%E0%A6%BF-objective-c-%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8/)
   * [প্রোপার্টি ও এর অ্যাট্রিবিউটের ব্যবহার] (http://nuhil.net/2014/05/21/%E0%A7%AB%E0%A6%83-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B8%E0%A6%BF-%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%BE%E0%A6%AA%E0%A6%BE/)
   * [মেথড ও এর বিস্তারিত] (http://nuhil.net/2014/05/25/%E0%A7%AC-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B8%E0%A6%BF-objective-c-%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A7%87%E0%A6%A5%E0%A6%A1-method/)
-  * প্রোটোকল 
+  * [প্রোটোকল] (http://nuhil.net/2014/06/02/%E0%A7%AD-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B8%E0%A6%BF-objective-c-%E0%A6%8F%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%9F%E0%A7%8B/)
   * ক্যাটাগরি এবং ব্লক
   * মেমোরি ম্যানেজমেন্ট 
   * ডাটা টাইপ
