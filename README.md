@@ -11,7 +11,7 @@
   * [মেথড ও এর বিস্তারিত] (http://nuhil.net/2014/05/25/%E0%A7%AC-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B8%E0%A6%BF-objective-c-%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A7%87%E0%A6%A5%E0%A6%A1-method/)
   * [প্রোটোকল] (http://nuhil.net/2014/06/02/%E0%A7%AD-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B8%E0%A6%BF-objective-c-%E0%A6%8F%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%9F%E0%A7%8B/)
   * [ক্যাটাগরি এবং এর বিস্তারিত]  (http://nuhil.net/2014/06/09/%E0%A7%AE-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B8%E0%A6%BF-%E0%A6%8F%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%97/) 
-  * [ব্লক] (http://nuhil.net/2014/06/11/%E0%A7%AF-%E0%A6%85%E0%A6%AC%E0%A7%87%E0%A6%9C%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B8%E0%A6%BF-objective-c-%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%B2%E0%A6%95-block-%E0%A6%8F/)
+  * [ব্লক] (http://nuhil.net/2014/06/11/%E0%A7%AF-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B8%E0%A6%BF-objective-c-%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%B2%E0%A6%95-block-%E0%A6%8F/)  
   * [এক্সেপশন ও এরর হ্যান্ডেলিং] (http://nuhil.net/2014/06/10/%E0%A7%A7%E0%A7%A6-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B8%E0%A6%BF-%E0%A6%A4%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A7%87%E0%A6%AA/) 
 
 ২. সুইফ্ট ব্যাসিক
