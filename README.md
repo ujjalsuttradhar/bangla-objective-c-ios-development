@@ -3,16 +3,16 @@
 এটি মূলত উপরোক্ত নামে প্রকাশিতব্য একটি বাংলা কাগুজে বইয়ের সূচিপত্র এবং এর মধ্যে থাকা সম্ভাব্য বিষয়বস্তুর তালিকা 
 
 ১. অবজেক্টিভ সি ব্যাসিক 
-  * [Objective C প্রাথমিক ধারনা এবং XCODE]    (http://nuhil.net/2014/05/05/%E0%A7%A7%E0%A6%83-objective-c-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A8%E0%A6%BE-%E0%A6%8F%E0%A6%AC%E0%A6%82-xcode/)  
-  * [Objective C এর ভিতরে আমাদের প্রিয় C] (http://nuhil.net/2014/05/08/%E0%A7%A8%E0%A6%83-objective-c-%E0%A6%8F%E0%A6%B0-%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F-c/)
-  * [অবজেক্টিভ-সি (Objective-C) তে ফাংশন ও এর ব্যবহার] (http://nuhil.net/2014/05/11/%E0%A7%A9%E0%A6%83-objective-c-%E0%A6%A4%E0%A7%87-%E0%A6%AB%E0%A6%BE%E0%A6%82%E0%A6%B6%E0%A6%A8-%E0%A6%93-%E0%A6%8F%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0/)
-  * [ক্লাস ও অবজেক্ট] (http://nuhil.net/2014/05/17/%E0%A7%AA%E0%A6%83-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B8%E0%A6%BF-objective-c-%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8/)
-  * [প্রোপার্টি ও এর অ্যাট্রিবিউটের ব্যবহার] (http://nuhil.net/2014/05/21/%E0%A7%AB%E0%A6%83-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B8%E0%A6%BF-%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%BE%E0%A6%AA%E0%A6%BE/)
-  * [মেথড ও এর বিস্তারিত] (http://nuhil.net/2014/05/25/%E0%A7%AC-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B8%E0%A6%BF-objective-c-%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A7%87%E0%A6%A5%E0%A6%A1-method/)
-  * [প্রোটোকল] (http://nuhil.net/2014/06/02/%E0%A7%AD-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B8%E0%A6%BF-objective-c-%E0%A6%8F%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%9F%E0%A7%8B/) 
-  * [ক্যাটাগরি (CATEGORY) এবং বিস্তারিত] (http://nuhil.net/2014/06/09/%E0%A7%AE-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B8%E0%A6%BF-%E0%A6%8F%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%97/)  
-  * [ব্লক (BLOCK) ও  এর ব্যবহার] (http://nuhil.net/2014/06/11/%e0%a7%af-%e0%a6%85%e0%a6%ac%e0%a7%87%e0%a6%9c%e0%a6%95%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%ad-%e0%a6%b8%e0%a6%bf-objective-c-%e0%a6%a4%e0%a7%87-%e0%a6%ac%e0%a7%8d%e0%a6%b2%e0%a6%95-block-%e0%a6%8f/)
-  * [এক্সেপশন ও এরর হ্যান্ডেলিং] (http://nuhil.net/2014/06/10/%e0%a7%a7%e0%a7%a6-%e0%a6%85%e0%a6%ac%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%9f%e0%a6%bf%e0%a6%ad-%e0%a6%b8%e0%a6%bf-%e0%a6%a4%e0%a7%87-%e0%a6%8f%e0%a6%95%e0%a7%8d%e0%a6%b8%e0%a7%87%e0%a6%aa/)
+  * [১-১ঃ Objective C প্রাথমিক ধারনা এবং XCODE]    (http://nuhil.net/2014/05/05/%E0%A7%A7%E0%A6%83-objective-c-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A5%E0%A6%AE%E0%A6%BF%E0%A6%95-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A8%E0%A6%BE-%E0%A6%8F%E0%A6%AC%E0%A6%82-xcode/)  
+  * [১-২ঃ Objective C এর ভিতরে আমাদের প্রিয় C] (http://nuhil.net/2014/05/08/%E0%A7%A8%E0%A6%83-objective-c-%E0%A6%8F%E0%A6%B0-%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F-c/)
+  * [১-৩ঃ অবজেক্টিভ-সি (Objective-C) তে ফাংশন ও এর ব্যবহার] (http://nuhil.net/2014/05/11/%E0%A7%A9%E0%A6%83-objective-c-%E0%A6%A4%E0%A7%87-%E0%A6%AB%E0%A6%BE%E0%A6%82%E0%A6%B6%E0%A6%A8-%E0%A6%93-%E0%A6%8F%E0%A6%B0-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0/)
+  * [১-৪ঃ ক্লাস ও অবজেক্ট] (http://nuhil.net/2014/05/17/%E0%A7%AA%E0%A6%83-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B8%E0%A6%BF-objective-c-%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8/)
+  * [১-৫ঃ প্রোপার্টি ও এর অ্যাট্রিবিউটের ব্যবহার] (http://nuhil.net/2014/05/21/%E0%A7%AB%E0%A6%83-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B8%E0%A6%BF-%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%BE%E0%A6%AA%E0%A6%BE/)
+  * [১-৬ঃ মেথড ও এর বিস্তারিত] (http://nuhil.net/2014/05/25/%E0%A7%AC-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B8%E0%A6%BF-objective-c-%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A7%87%E0%A6%A5%E0%A6%A1-method/)
+  * [১-৭ঃ প্রোটোকল] (http://nuhil.net/2014/06/02/%E0%A7%AD-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B8%E0%A6%BF-objective-c-%E0%A6%8F%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%9F%E0%A7%8B/) 
+  * [১-৮ঃ ক্যাটাগরি (CATEGORY) এবং বিস্তারিত] (http://nuhil.net/2014/06/09/%E0%A7%AE-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AD-%E0%A6%B8%E0%A6%BF-%E0%A6%8F%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%97/)  
+  * [১-৯ঃ ব্লক (BLOCK) ও  এর ব্যবহার] (http://nuhil.net/2014/06/11/%e0%a7%af-%e0%a6%85%e0%a6%ac%e0%a7%87%e0%a6%9c%e0%a6%95%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%ad-%e0%a6%b8%e0%a6%bf-objective-c-%e0%a6%a4%e0%a7%87-%e0%a6%ac%e0%a7%8d%e0%a6%b2%e0%a6%95-block-%e0%a6%8f/)
+  * [১-১০ঃ এক্সেপশন ও এরর হ্যান্ডেলিং] (http://nuhil.net/2014/06/10/%e0%a7%a7%e0%a7%a6-%e0%a6%85%e0%a6%ac%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%9f%e0%a6%bf%e0%a6%ad-%e0%a6%b8%e0%a6%bf-%e0%a6%a4%e0%a7%87-%e0%a6%8f%e0%a6%95%e0%a7%8d%e0%a6%b8%e0%a7%87%e0%a6%aa/)
 
 ২. অ্যাপ ডেভেলপমেন্ট (ডাটা সেন্ট্রিক)
   * প্রয়োজনীয় টুলস এবং সেটআপ
@@ -53,7 +53,17 @@
   * ....
 
 ৫ সুইফ্ট - অ্যাপলের নতুন চমক
-  * 
+  * [৩-১ ঃ সুইফ্ট – অ্যাপলের নতুন চমক (পরিচিতি ও অন্যান্য বেসিক)] ()
+  * [৩-২ঃ সুইফ্ট ল্যাঙ্গুয়েজে স্ট্রিং ও ক্যারেকটার টাইপ ভ্যারিয়েবল] () 
+  * [৩-৩ঃ কালেকশনস (অ্যারে ও ডিকশনারী), ইনুমারেশন ও ক্লোজার]  ()
+  * [৩-৪ঃ ব্রাঞ্চিং ও লুপিং] ()
+  * [৩-৫ঃ ফাংশন ও মেথড] ()
+  * [৩-৬ঃ ক্লাস এবং স্ট্রাকচারের মধ্যে পার্থক্য] ()
+  * [৩-৭ঃ প্রোপার্টি] ()
+  * [৩-৮ঃ ইনহেরিটেন্স] ()
+  * [৩-৯ঃ ইনিশিয়ালাইজেশন, ডি-ইনিশিয়ালাইজেশন ও  অপশনাল চেইনিং] ()
+  * [৩-১০ঃ এক্সটেনশন ও প্রোটোকল] ()
+
 
 ৪. গেম ডেভেলপমেন্ট 
   * অতিরিক্ত প্রয়োজনীয় টুলস এবং তাদের পরিচিত 
